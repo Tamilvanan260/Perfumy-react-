@@ -23,8 +23,6 @@ ul{
     display: inline;
 }
 
-
-*/
 li {
     color: grey;
     text-decoration: none;
@@ -80,7 +78,8 @@ img{
     color: white;
 }
 
-
+/*Step 25 select products class and set alignment to center 
+and padding */
 .products{
     text-align: center;
     padding: 30px;
